@@ -1,3 +1,3 @@
-<h1> Exercícios feitos do Hacker Rank </h1>
+<h1> Code challenges </h1>
 
-<p> Minhas soluções para problemas do Hacker Rank </p>
+<p> Minhas soluções para desafios de código. </p>
